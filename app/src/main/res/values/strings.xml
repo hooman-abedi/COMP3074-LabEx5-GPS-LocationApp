@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GPS Location</string>
+    <string name="title">My GPS Location</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="updated">Updated</string>
+    <string name="placeholder">—</string>
+    <string name="refresh">Refresh location</string>
+    <string name="hint">Location is read from the GPS receiver. Go outdoors or near a window for a faster fix.</string>
+
+    <string name="status_starting">Starting…</string>
+    <string name="status_requesting_permission">Requesting location permission…</string>
+    <string name="status_waiting_fix">Waiting for GPS fix…</string>
+    <string name="status_last_known">Last known GPS fix — waiting for live update…</string>
+    <string name="status_live">Live GPS fix</string>
+    <string name="status_gps_off">GPS is turned off</string>
+    <string name="status_permission_denied">Location permission denied</string>
+
+    <string name="rationale_title">Location permission needed</string>
+    <string name="rationale_message">This app needs precise location permission to read your latitude and longitude from the GPS.</string>
+    <string name="settings_message">Precise location permission was denied. Open app settings, choose Permissions → Location, and allow precise location.</string>
+    <string name="gps_off_title">Turn on GPS</string>
+    <string name="gps_off_message">Location services are off. Turn on location to get your GPS coordinates.</string>
+    <string name="try_again">Try again</string>
+    <string name="open_settings">Open settings</string>
+</resources>
